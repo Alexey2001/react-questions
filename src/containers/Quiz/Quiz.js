@@ -5,6 +5,7 @@ import FinishedQuiz from "../../components/FinishedQuiz/FinishedQuiz";
 
 class Quiz extends Component {
   state = {
+      results: {}, //{[id]: success error}   ключ по айди и так же состояние либо саксесс либо еррор
       isFinished: true,
       activeQuestion: 0,
       answerState: null, // объект где ключ у нас будет  id строка либо success либо еррор {[id]: 'success' 'error'}
