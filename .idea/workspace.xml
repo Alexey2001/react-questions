@@ -1,14 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b697c59b-4a34-47ef-9e80-1d39af77b4c4" name="Default Changelist" comment="" />
+    <list default="true" id="b697c59b-4a34-47ef-9e80-1d39af77b4c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/containers/Auth/Auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/QuizCreacor/QuizCreacor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/QuizCreacor/QuizCreacor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/QuizList/QuizList.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/QuizList/QuizList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/loose-envify" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/loose-envify" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/loose-envify.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/loose-envify.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.yarn-integrity" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.yarn-integrity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/FinishedQuiz/FinishedQuiz.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FinishedQuiz/FinishedQuiz.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navigation/Drawer/Drawer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navigation/Drawer/Drawer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/Quiz/Quiz.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Quiz/Quiz.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aJFpSUbfainFY1kdZq8jngGo3N" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,6 +46,24 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -36,7 +76,10 @@
       <option name="presentableId" value="Default" />
       <updated>1586445972993</updated>
       <workItem from="1586445977218" duration="8082000" />
-      <workItem from="1586500073297" duration="3155000" />
+      <workItem from="1586500073297" duration="10278000" />
+      <workItem from="1586549049445" duration="564000" />
+      <workItem from="1586549623921" duration="951000" />
+      <workItem from="1586590709950" duration="2299000" />
     </task>
     <servers />
   </component>
@@ -52,5 +95,49 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="514" y="483" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1586456495168" />
+    <state x="295" y="482" key="#com.intellij.ide.util.MemberChooser" timestamp="1586549924051">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="295" y="482" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1586549924051" />
+    <state x="939" y="66" key="CommitChangelistDialog2" timestamp="1586549886831">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="939" y="66" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1586549886831" />
+    <state width="859" height="108" key="GridCell.Tab.0.bottom" timestamp="1586592632265">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="859" height="108" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1586592632265" />
+    <state width="859" height="108" key="GridCell.Tab.0.center" timestamp="1586592632265">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="859" height="108" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1586592632265" />
+    <state width="859" height="108" key="GridCell.Tab.0.left" timestamp="1586592632265">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="859" height="108" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1586592632265" />
+    <state width="859" height="108" key="GridCell.Tab.0.right" timestamp="1586592632265">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="859" height="108" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1586592632265" />
+    <state x="897" y="335" key="SettingsEditor" timestamp="1586550367671">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="897" y="335" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1586550367671" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1586549842903">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1050@0.0.1920.1050" timestamp="1586549842903" />
+    <state x="298" y="684" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586549916930">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="298" y="684" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050" timestamp="1586549916930" />
+    <state x="392" y="343" width="672" height="677" key="run.anything.popup" timestamp="1586537767580">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="392" y="343" width="672" height="677" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1586537767580" />
+    <state x="153" y="371" key="search.everywhere.popup" timestamp="1586549905626">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="153" y="371" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1586549905626" />
   </component>
 </project>
