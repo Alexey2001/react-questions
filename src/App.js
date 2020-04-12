@@ -4,7 +4,7 @@ import {Route, Switch} from 'react-router-dom'
 import Quiz from './containers/Quiz/Quiz'
 import QuizList from "./containers/QuizList/QuizList";
 import Auth from "./containers/Auth/Auth";
-import QuizCreacor from "./containers/QuizCreacor/QuizCreacor";
+import QuizCreacor from "./containers/QuizCreacor/QuizCreator";
 
 class App extends Component {
   render() {

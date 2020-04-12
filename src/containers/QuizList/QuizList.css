@@ -1,4 +1,4 @@
-.QuizList{
+.QuizList {
     display: flex;
     justify-content: center;
     padding-top: 100px;
@@ -7,7 +7,7 @@
     background: linear-gradient(90deg, #fd8355 0%, #f0576c 37%, #f79cbd 100%);
 }
 
-.QuizList h1{
+.QuizList h1 {
     color: #fff;
 }
 
@@ -29,5 +29,4 @@
 .QuizList li a:hover {
     color: #363f54;
 }
-
 

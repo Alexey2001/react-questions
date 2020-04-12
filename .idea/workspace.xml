@@ -2,21 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b697c59b-4a34-47ef-9e80-1d39af77b4c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/containers/Auth/Auth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/QuizCreacor/QuizCreacor.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/QuizCreacor/QuizCreacor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/QuizList/QuizList.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/QuizList/QuizList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Input/input.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Input/input.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Select/Select.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Select/Select.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/Auth/Auth.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/QuizCreacor/QuizCreator.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/QuizCreacor/QuizCreator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/form/formFramework.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hoc/Auxiliary/Auxiliary.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hoc/Auxiliary/Auxiliary.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/loose-envify" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/loose-envify" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/loose-envify.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/loose-envify.cmd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.yarn-integrity" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.yarn-integrity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/FinishedQuiz/FinishedQuiz.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FinishedQuiz/FinishedQuiz.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navigation/Drawer/Drawer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navigation/Drawer/Drawer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/Auth/Auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Auth/Auth.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/containers/Quiz/Quiz.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Quiz/Quiz.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/QuizCreacor/QuizCreacor.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/QuizCreacor/QuizCreacor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/QuizList/QuizList.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/QuizList/QuizList.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/QuizList/QuizList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/QuizList/QuizList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hoc/Layout/Layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hoc/Layout/Layout.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,22 +85,38 @@
       <workItem from="1586500073297" duration="10278000" />
       <workItem from="1586549049445" duration="564000" />
       <workItem from="1586549623921" duration="951000" />
-      <workItem from="1586590709950" duration="2299000" />
+      <workItem from="1586590709950" duration="12903000" />
+      <workItem from="1586635517698" duration="860000" />
+      <workItem from="1586676145075" duration="8392000" />
+      <workItem from="1586694864710" duration="498000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="552" y="183" key="#Notifications" timestamp="1586455441571">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="552" y="183" key="#Notifications/0.0.1920.1050@0.0.1920.1050" timestamp="1586455441571" />
-    <state x="514" y="483" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586456495168">
+    <state x="514" y="483" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586613702421">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="514" y="483" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1586456495168" />
+    <state x="514" y="483" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1586613702421" />
     <state x="295" y="482" key="#com.intellij.ide.util.MemberChooser" timestamp="1586549924051">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -103,22 +125,26 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="939" y="66" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1586549886831" />
-    <state width="859" height="108" key="GridCell.Tab.0.bottom" timestamp="1586592632265">
+    <state x="92" y="92" width="1736" height="866" key="DiffContextDialog" timestamp="1586604246048">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="859" height="108" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1586592632265" />
-    <state width="859" height="108" key="GridCell.Tab.0.center" timestamp="1586592632265">
+    <state x="92" y="92" width="1736" height="866" key="DiffContextDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1586604246048" />
+    <state width="859" height="270" key="GridCell.Tab.0.bottom" timestamp="1586692882314">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="859" height="108" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1586592632265" />
-    <state width="859" height="108" key="GridCell.Tab.0.left" timestamp="1586592632265">
+    <state width="859" height="270" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1586692882314" />
+    <state width="859" height="270" key="GridCell.Tab.0.center" timestamp="1586692882314">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="859" height="108" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1586592632265" />
-    <state width="859" height="108" key="GridCell.Tab.0.right" timestamp="1586592632265">
+    <state width="859" height="270" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1586692882314" />
+    <state width="859" height="270" key="GridCell.Tab.0.left" timestamp="1586692882314">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="859" height="108" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1586592632265" />
+    <state width="859" height="270" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1586692882314" />
+    <state width="859" height="270" key="GridCell.Tab.0.right" timestamp="1586692882314">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="859" height="270" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1586692882314" />
     <state x="897" y="335" key="SettingsEditor" timestamp="1586550367671">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
